@@ -1,4 +1,4 @@
-## Welcome to The Cardano Ada Staking Pool Kowloon Tong Page
+## Welcome to The Cardano Ada Staking Kowloon Pool Page
 
 
 
