@@ -32,4 +32,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Please contact <a href="https://telegram.me/patrickwclau">Our Support via Telegram</a> for details.  
+Having trouble with this Page? Please contact <a href="https://telegram.me/patrickwclau">Our Support via Telegram</a> for details.  
