@@ -6,20 +6,23 @@
 
 This site will continue to expand that includes: 
 
+<MTMarkdownOptions output='raw'>
+#On-going development
 
-On-going development
+What is Cardano Ada?
+How does staking work?
+How much do I get for staking Ada?
+</MTMarkdownOptions>
 
-# What is Cardano Ada?
-## How does staking work?
-### How much do I get for staking Ada?
-
-Listed development
+<MTMarkdownOptions output='raw'>
+#Listed future development
 
 1. The evolution of blockchain.
 2. Why blockchain is inevitable.
-3. Why Cardano is different.
-
-**Bold** and _Italic_ and `Code` text
+3. Why research driven Cardano is the future of blockchain.
+4.
+  
+</MTMarkdownOptions>
 
 [Link](url) and ![Image](src)
 ```
