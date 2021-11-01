@@ -4,7 +4,7 @@
 
 ### Cardano Ada Staking
 
-'The Kowloon Pool will not actively solicit for delegators and will only friends and family of Kowloon until a more complete development is completed.'
+'The Kowloon Pool will not actively solicit for delegators and will only friends and family of Kowloon until a further development is completed.'
 
 This site will continue to expand that includes: 
 
