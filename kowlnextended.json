@@ -1,7 +1,7 @@
 {
  "info": {
-  "url_png_icon_64x64": "https://github.com/kowloon-central/kowln/kowln64x64.png",
-  "url_png_logo": "https://github.com/kowloon-central/kowln/kowln200x200.png",
+  "url_png_icon_64x64": "https://raw.githubusercontent.com/kowloon-central/kowln/main/kowln64x64.png",
+  "url_png_logo": "https://raw.githubusercontent.com/kowloon-central/kowln/main/kowln200x200.png",
   "social": {
    "twitter_handle": "patricklauwc"
   },
