@@ -1,7 +1,7 @@
 {
  "info": {
-  "url_png_icon_64x64": "https://github.com/kowloon-central/kowln/kowln64.png",
-  "url_png_logo": "https://github.com/kowloon-central/kowln/kowln.png",
+  "url_png_icon_64x64": "https://github.com/kowloon-central/kowln/kowln64x64.png",
+  "url_png_logo": "https://github.com/kowloon-central/kowln/kowln200x200.png",
   "social": {
    "twitter_handle": "patricklauwc"
   },
@@ -11,7 +11,7 @@
    "server": "Constantly upgrading to meet the demand."
   }
  },
- "telegram-admin-handle": [],
+ "telegram-admin-handle": [patrickwclau],
  "my-pool-ids": [
   "73a2cf679cce99614176523741aa05942722890b632184e377724df1"
  ]
