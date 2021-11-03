@@ -1,0 +1,18 @@
+{
+ "info": {
+  "url_png_icon_64x64": "https://github.com/kowloon-central/kowln/kowln64.png",
+  "url_png_logo": "https://github.com/kowloon-central/kowln/kowln.png",
+  "social": {
+   "twitter_handle": "patricklauwc"
+  },
+  "company": {},
+  "about": {
+   "me": "Stake Pool Operator [KOWLN]. Based in Kowloon, Hong Kong. Web 3.0 is here, and Cardano is at the forfront of this evolution. Keep spreading the word."
+   "server": "Constantly upgrading to meet the demand."
+  }
+ },
+ "telegram-admin-handle": [patrickwclau],
+ "my-pool-ids": [
+  "73a2cf679cce99614176523741aa05942722890b632184e377724df1"
+ ]
+}
