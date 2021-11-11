@@ -11,9 +11,9 @@ This site will continue to expand that includes:
 
 ##On-going development
 
-What is Cardano Ada?
-How does staking work?
-How much do I get for staking Ada?
+- What is Cardano Ada?
+- How does staking work?
+- How much do I get for staking Ada?
 
 
 ##Listed future development
@@ -25,10 +25,12 @@ How much do I get for staking Ada?
 
 [Link](url) and ![Image](src)
 ```
+You can download [yoroi-wallet] (https://yoroi-wallet.com/#/), click on delegation, and type "KOWLN"
 
-For more details please see [cardanoscan.io](https://cardanoscan.io/pool/73a2cf679cce99614176523741aa05942722890b632184e377724df1).
+
+For pool details, please see [adapools.org](https://adapools.org/pool/73a2cf679cce99614176523741aa05942722890b632184e377724df1).
 
 
 ### Support or Contact
 
-Having trouble with this Page? Please contact <a href="https://telegram.me/patrickwclau">Our Support via Telegram</a> for details.  
+You can join our Ada page for the latest news at <a href="https://telegram.me/kowln">our telegram group</a>.  
